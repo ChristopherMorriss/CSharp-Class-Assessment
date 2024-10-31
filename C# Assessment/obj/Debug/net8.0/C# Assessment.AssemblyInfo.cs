@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Assessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ff7162a34db92cee02c1dbdfca8163c023b49e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e99705eed25d2efffdf570beecf6a99de4d34f")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Assessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Assessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
